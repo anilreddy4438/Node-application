@@ -9,6 +9,8 @@ var refersh = function(){
         //$scope.contactdata ="";
     });
 };
+
+
 refersh();
     $scope.addContact = function(){
         console.log($scope.contact);
